@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Devloperkaranofficial</h1>
+<h1>Hi 👋, I'm Developerkaranofficial</h1>
  <img src="https://media3.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b9520sx75vmpxzchxi3nonkgxfxbair2fngr7zxcihvz&ep=v1_gifs_search&rid=200w.gif&ct=g" alt="">
 <p>A humble abode for my frontend learning journey. Each commit marks a step forward in mastering the art of web development. Join me as I explore the world of HTML, CSS, and JavaScript!</p>
 
