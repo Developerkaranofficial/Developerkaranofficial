@@ -78,6 +78,6 @@
 ---
 
 ### 💬 Let’s Connect
-- 📬 Reach me at: [developerkaran@gmail.com](mailto:developerkaran11@gmail.com)
+- 📬 Reach me at: [developerkaran11@gmail.com](mailto:developerkaran11@gmail.com)
 - 🌐 Portfolio (coming soon)
 
